@@ -3,11 +3,11 @@ entries:
   languev3:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-11-09T21:41:57.098991181+01:00"
+    created: "2019-11-09T21:53:23.888403415+01:00"
     description: A Helm chart for Langue V3 project
     digest: 7167df4bd3e61b13adfa7f8bbe8e58299305ad89fdd8714616b1960fbacc6922
     name: languev3
     urls:
-    - https://gree-gorey.github.io/helm-example/languev3-1.0.0.tgz
+    - https://danielcambray.github.io/helm-charts/languev3-1.0.0.tgz
     version: 1.0.0
-generated: "2019-11-09T21:41:57.098624008+01:00"
+generated: "2019-11-09T21:53:23.887869838+01:00"
