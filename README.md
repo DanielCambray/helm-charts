@@ -1,5 +1,9 @@
 
 
+## Create package
+
+helm package helm/languev3
+
 
 https://danielcambray.github.io/helm-charts
 
